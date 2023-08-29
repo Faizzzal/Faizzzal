@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in Python, Django, HTML, CSS, Django Rest Framework, and AWS. Currently, I'm dedicated to crafting innovative solutions and building robust applications.
 
+![SVG Image](ayhma-2wtaw.svg)
+
 ## About Me
 
 - 🔭 I'm currently developing a **Training Management System**.
