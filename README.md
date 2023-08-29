@@ -18,7 +18,7 @@ I'm actively working on a **Training Management System** where I'm utilizing the
 You can find me on:
 
 - [GitHub](https://github.com/Faizzzal)
-- [LinkedIn](www.linkedin.com/in/faisalnazirfn)
+- [LinkedIn](https://www.linkedin.com/in/faisalnazirfn)
 
 Feel free to reach out if you want to discuss web development, share ideas, or collaborate on exciting projects. Looking forward to connecting with you!
 
